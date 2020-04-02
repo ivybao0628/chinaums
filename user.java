@@ -1,4 +1,4 @@
 
 import com.chinaums.test;
-System.out.println("hello chinaums")
-dbo.name=chinaums.com
+System.out.println("hello this is a  chinaums project test")
+
